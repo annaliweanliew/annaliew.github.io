@@ -3,7 +3,7 @@ body {
   line-height: 1.6em; 
   color: #484848;
 /*  border: 5px solid purple;*/
-  background-image: url("Image/new_year_background.png"); 
+  background-image: url("image/new_year_background.png"); 
   /*This is CSS trick for tinted image*/
   /*background: linear-gradient(rgba(184,207,216,0.2),rgba(184,207,216,0.2)),url("Image/new_year_background.png");*/
   text-align: justify;
